@@ -1,0 +1,9 @@
+node_modules
+dist
+.runtime
+.env*
+test-results
+playwright-report
+supabase/.temp
+docs/screenshots
+package-lock.json
