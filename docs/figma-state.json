@@ -1,0 +1,14 @@
+{
+  "fileKey": "65uiJ7BzskfCThgA7mqP5F",
+  "url": "https://www.figma.com/design/65uiJ7BzskfCThgA7mqP5F",
+  "frames": {
+    "foundations": "2:22",
+    "workspace": "2:47",
+    "mobile": "2:88",
+    "notebook": "2:99",
+    "auth": "2:105"
+  },
+  "buttonSet": "2:21",
+  "collection": "VariableCollectionId:2:2",
+  "phase": "composed; sizing repaired"
+}
