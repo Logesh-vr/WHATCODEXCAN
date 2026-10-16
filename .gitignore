@@ -1,0 +1,33 @@
+node_modules/
+dist/
+.env*
+!.env.example
+playwright-report/
+test-results/
+supabase/.temp/
+supabase/.branches/
+.runtime/
+*.log
+
+# Local tools, caches, and machine-specific editor settings
+.cache/
+.vite/
+coverage/
+*.tsbuildinfo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.tmp
+
+# Credentials and agent-local state
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+.codex/
+.agents/
+.aws/
