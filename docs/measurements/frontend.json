@@ -1,0 +1,62 @@
+{
+  "measuredAt": "2026-10-16T08:27:52.647Z",
+  "target": "http://127.0.0.1:4173",
+  "method": "Five fresh Edge/Chromium contexts, production preview on loopback, 1440x1000, no CPU/network throttling. Interaction includes Playwright fill round-trip and two animation frames. Heap excludes browser process and GPU memory.",
+  "samples": [
+    {
+      "domContentLoadedMs": 89.79999999701977,
+      "loadMs": 90.90000000596046,
+      "largestContentfulPaintMs": 380,
+      "transferredBytes": 223118,
+      "jsHeapUsedBytes": 4707872,
+      "interactionMs": [
+        31.694999999999936, 33.46569999999997, 32.771799999999985, 33.48980000000006,
+        33.15599999999995, 33.76440000000002, 33.13429999999994
+      ]
+    },
+    {
+      "domContentLoadedMs": 58.5,
+      "loadMs": 58.599999994039536,
+      "largestContentfulPaintMs": 168,
+      "transferredBytes": 223118,
+      "jsHeapUsedBytes": 4686532,
+      "interactionMs": [
+        34.76309999999967, 33.207400000000234, 33.21349999999984, 33.40639999999985,
+        33.64539999999988, 32.98159999999962, 33.38040000000001
+      ]
+    },
+    {
+      "domContentLoadedMs": 59.6000000089407,
+      "loadMs": 59.79999999701977,
+      "largestContentfulPaintMs": 136,
+      "transferredBytes": 223118,
+      "jsHeapUsedBytes": 4710900,
+      "interactionMs": [
+        37.29520000000002, 33.20250000000033, 33.5938000000001, 33.0320999999999,
+        33.345800000000054, 33.327800000000025, 33.38500000000022
+      ]
+    },
+    {
+      "domContentLoadedMs": 64.20000000298023,
+      "loadMs": 64.40000000596046,
+      "largestContentfulPaintMs": 160,
+      "transferredBytes": 223118,
+      "jsHeapUsedBytes": 4692956,
+      "interactionMs": [
+        36.274500000000444, 33.22610000000077, 33.51220000000012, 33.39800000000014,
+        33.09970000000067, 33.77680000000055, 33.29320000000007
+      ]
+    },
+    {
+      "domContentLoadedMs": 943.7000000029802,
+      "loadMs": 943.7999999970198,
+      "largestContentfulPaintMs": 1020,
+      "transferredBytes": 223118,
+      "jsHeapUsedBytes": 4708028,
+      "interactionMs": [
+        34.76640000000043, 33.10140000000047, 33.53780000000006, 32.95169999999962,
+        33.264000000000124, 33.853399999999965, 33.1218000000008
+      ]
+    }
+  ]
+}
